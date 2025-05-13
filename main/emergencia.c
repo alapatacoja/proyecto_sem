@@ -3,8 +3,8 @@
 #include "emergencia.h"
 
 void llamar(){
-    const char* mensaje 0 "LLAMAR";
-    //enviar mensaje
+    const char* mensaje = "LLAMAR";
+    esp_ spp_write(); //por acabar 
 }
 
 //clau tu parte va aqui tambien y en el .h
